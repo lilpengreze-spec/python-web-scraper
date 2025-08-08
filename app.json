@@ -1,0 +1,48 @@
+{
+  "name": "review-scraper",
+  "description": "Production-ready web scraper for Yelp and Amazon reviews",
+  "keywords": ["python", "flask", "scraper", "yelp", "amazon", "reviews"],
+  "website": "https://github.com/your-username/review-scraper",
+  "repository": "https://github.com/your-username/review-scraper",
+  "logo": "https://via.placeholder.com/150",
+  "success_url": "/health",
+  "stack": "heroku-22",
+  "addons": ["heroku-redis:mini"],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "env": {
+    "FLASK_ENV": {
+      "description": "Flask environment (production for Railway)",
+      "value": "production"
+    },
+    "YELP_API_KEY": {
+      "description": "Your Yelp Fusion API key",
+      "required": false
+    },
+    "AMAZON_ACCESS_KEY": {
+      "description": "Amazon Product Advertising API access key",
+      "required": false
+    },
+    "AMAZON_SECRET_KEY": {
+      "description": "Amazon Product Advertising API secret key",
+      "required": false
+    },
+    "AMAZON_PARTNER_TAG": {
+      "description": "Amazon affiliate partner tag",
+      "required": false
+    },
+    "LOG_LEVEL": {
+      "description": "Logging level (DEBUG, INFO, WARNING, ERROR)",
+      "value": "INFO"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  }
+}

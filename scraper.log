@@ -1,0 +1,138 @@
+2025-08-07 21:12:29 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-07 21:12:29 - scrapers.amazon_scraper - INFO - Amazon API not available, will use HTML parsing
+2025-08-07 21:12:29 - __main__ - INFO - Starting Review Scraper Application
+2025-08-07 21:12:29 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.78:5000
+2025-08-07 21:12:29 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-07 21:12:29 - werkzeug - INFO -  * Restarting with stat
+2025-08-07 21:12:29 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-07 21:12:29 - scrapers.amazon_scraper - INFO - Amazon API not available, will use HTML parsing
+2025-08-07 21:12:29 - __main__ - INFO - Starting Review Scraper Application
+2025-08-07 21:12:29 - werkzeug - WARNING -  * Debugger is active!
+2025-08-07 21:12:29 - werkzeug - INFO -  * Debugger PIN: 394-780-644
+2025-08-07 21:13:21 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\scrapers\\amazon_scraper.py', reloading
+2025-08-07 21:13:21 - werkzeug - INFO -  * Restarting with stat
+2025-08-07 21:13:21 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-07 21:13:21 - scrapers.amazon_scraper - INFO - Amazon API not available, will use HTML parsing
+2025-08-07 21:13:21 - __main__ - INFO - Starting Review Scraper Application
+2025-08-07 21:13:21 - werkzeug - WARNING -  * Debugger is active!
+2025-08-07 21:13:21 - werkzeug - INFO -  * Debugger PIN: 394-780-644
+2025-08-07 21:13:23 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\utils\\__init__.py', reloading
+2025-08-07 21:13:23 - werkzeug - INFO -  * Restarting with stat
+2025-08-07 21:13:23 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-07 21:13:23 - scrapers.amazon_scraper - INFO - Amazon API not available, will use HTML parsing
+2025-08-07 21:13:23 - __main__ - INFO - Starting Review Scraper Application
+2025-08-07 21:13:23 - werkzeug - WARNING -  * Debugger is active!
+2025-08-07 21:13:23 - werkzeug - INFO -  * Debugger PIN: 394-780-644
+2025-08-07 21:13:24 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\utils\\helpers.py', reloading
+2025-08-07 21:13:24 - werkzeug - INFO -  * Restarting with stat
+2025-08-07 21:13:25 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-07 21:13:25 - scrapers.amazon_scraper - INFO - Amazon API not available, will use HTML parsing
+2025-08-07 21:13:25 - __main__ - INFO - Starting Review Scraper Application
+2025-08-07 21:13:25 - werkzeug - WARNING -  * Debugger is active!
+2025-08-07 21:13:25 - werkzeug - INFO -  * Debugger PIN: 394-780-644
+2025-08-07 21:13:26 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\test_scraper.py', reloading
+2025-08-07 21:13:26 - werkzeug - INFO -  * Restarting with stat
+2025-08-07 21:13:26 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-07 21:13:26 - scrapers.amazon_scraper - INFO - Amazon API not available, will use HTML parsing
+2025-08-07 21:13:26 - __main__ - INFO - Starting Review Scraper Application
+2025-08-07 21:13:26 - werkzeug - WARNING -  * Debugger is active!
+2025-08-07 21:13:26 - werkzeug - INFO -  * Debugger PIN: 394-780-644
+2025-08-07 21:13:27 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\scrapers\\yelp_scraper.py', reloading
+2025-08-07 21:13:27 - werkzeug - INFO -  * Restarting with stat
+2025-08-07 21:13:28 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-07 21:13:28 - scrapers.amazon_scraper - INFO - Amazon API not available, will use HTML parsing
+2025-08-07 21:13:28 - __main__ - INFO - Starting Review Scraper Application
+2025-08-07 21:13:28 - werkzeug - WARNING -  * Debugger is active!
+2025-08-07 21:13:28 - werkzeug - INFO -  * Debugger PIN: 394-780-644
+2025-08-07 21:14:18 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\scrapers\\amazon_scraper.py', reloading
+2025-08-07 21:14:18 - werkzeug - INFO -  * Restarting with stat
+2025-08-07 21:14:18 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-07 21:14:18 - scrapers.amazon_scraper - INFO - Amazon API not available, will use HTML parsing
+2025-08-07 21:14:18 - __main__ - INFO - Starting Review Scraper Application
+2025-08-07 21:14:18 - werkzeug - WARNING -  * Debugger is active!
+2025-08-07 21:14:18 - werkzeug - INFO -  * Debugger PIN: 394-780-644
+2025-08-07 21:14:27 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\scrapers\\amazon_scraper.py', reloading
+2025-08-07 21:14:28 - werkzeug - INFO -  * Restarting with stat
+2025-08-07 21:14:28 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-07 21:14:28 - scrapers.amazon_scraper - INFO - Amazon API not available, will use HTML parsing
+2025-08-07 21:14:28 - __main__ - INFO - Starting Review Scraper Application
+2025-08-07 21:14:28 - werkzeug - WARNING -  * Debugger is active!
+2025-08-07 21:14:28 - werkzeug - INFO -  * Debugger PIN: 394-780-644
+2025-08-07 21:14:39 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\scrapers\\amazon_scraper.py', reloading
+2025-08-07 21:14:39 - werkzeug - INFO -  * Restarting with stat
+2025-08-07 21:14:39 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-07 21:14:39 - scrapers.amazon_scraper - INFO - Amazon API package not available, using web scraping only
+2025-08-07 21:14:39 - __main__ - INFO - Starting Review Scraper Application
+2025-08-07 21:14:39 - werkzeug - WARNING -  * Debugger is active!
+2025-08-07 21:14:39 - werkzeug - INFO -  * Debugger PIN: 394-780-644
+2025-08-07 21:14:50 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\scrapers\\amazon_scraper.py', reloading
+2025-08-07 21:14:50 - werkzeug - INFO -  * Restarting with stat
+2025-08-07 21:14:51 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-07 21:14:51 - scrapers.amazon_scraper - INFO - Amazon API package not available, using web scraping only
+2025-08-07 21:14:51 - __main__ - INFO - Starting Review Scraper Application
+2025-08-07 21:14:51 - werkzeug - WARNING -  * Debugger is active!
+2025-08-07 21:14:51 - werkzeug - INFO -  * Debugger PIN: 394-780-644
+2025-08-07 21:15:26 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2025 21:15:26] "[33mGET /api/trending HTTP/1.1[0m" 404 -
+2025-08-07 21:15:42 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2025 21:15:42] "GET /health?id=8186aca0-e34f-4286-9e89-805238026658&vscodeBrowserReqId=1754615741825 HTTP/1.1" 200 -
+2025-08-07 21:16:07 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2025 21:16:07] "GET /health HTTP/1.1" 200 -
+2025-08-07 21:16:09 - __main__ - INFO - Starting scrape for Yelp: garaje-san-francisco, Amazon: B08N5WRWNW
+2025-08-07 21:16:10 - scrapers.yelp_scraper - ERROR - Network error during Yelp scraping: 403 Client Error: Forbidden for url: https://www.yelp.com/biz/garaje-san-francisco
+2025-08-07 21:16:10 - __main__ - ERROR - Yelp scraping failed: 403 Client Error: Forbidden for url: https://www.yelp.com/biz/garaje-san-francisco
+2025-08-07 21:16:13 - scrapers.amazon_scraper - INFO - Retrieved 0 reviews via Amazon scraping
+2025-08-07 21:16:13 - __main__ - INFO - Successfully scraped 0 Amazon reviews
+2025-08-07 21:16:13 - __main__ - INFO - Starting background scraper with 300s interval
+2025-08-07 21:16:13 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2025 21:16:13] "POST /scrape HTTP/1.1" 200 -
+2025-08-07 21:16:13 - __main__ - INFO - Starting scrape for Yelp: garaje-san-francisco, Amazon: B08N5WRWNW
+2025-08-07 21:16:13 - scrapers.yelp_scraper - ERROR - Network error during Yelp scraping: 403 Client Error: Forbidden for url: https://www.yelp.com/biz/garaje-san-francisco
+2025-08-07 21:16:13 - __main__ - ERROR - Yelp scraping failed: 403 Client Error: Forbidden for url: https://www.yelp.com/biz/garaje-san-francisco
+2025-08-07 21:16:14 - scrapers.amazon_scraper - INFO - Retrieved 0 reviews via Amazon scraping
+2025-08-07 21:16:14 - __main__ - INFO - Successfully scraped 0 Amazon reviews
+2025-08-07 21:16:15 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2025 21:16:15] "GET /latest HTTP/1.1" 200 -
+2025-08-08 09:43:42 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-08 09:43:42 - scrapers.amazon_scraper - INFO - Amazon API not available - using web scraping only (API doesn't provide review data anyway)
+2025-08-08 09:43:42 - __main__ - INFO - Starting Review Scraper Application
+2025-08-08 09:43:42 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.78:5000
+2025-08-08 09:43:42 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 09:43:42 - werkzeug - INFO -  * Restarting with stat
+2025-08-08 09:43:42 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-08 09:43:42 - scrapers.amazon_scraper - INFO - Amazon API not available - using web scraping only (API doesn't provide review data anyway)
+2025-08-08 09:43:42 - __main__ - INFO - Starting Review Scraper Application
+2025-08-08 09:43:42 - werkzeug - WARNING -  * Debugger is active!
+2025-08-08 09:43:42 - werkzeug - INFO -  * Debugger PIN: 423-475-774
+2025-08-08 09:43:53 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2025 09:43:53] "GET /health HTTP/1.1" 200 -
+2025-08-08 09:52:45 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\app.py', reloading
+2025-08-08 09:52:45 - werkzeug - INFO -  * Restarting with stat
+2025-08-08 09:52:45 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-08 09:52:45 - scrapers.amazon_scraper - INFO - Amazon API not available - using web scraping only (API doesn't provide review data anyway)
+2025-08-08 09:52:45 - __main__ - INFO - Starting Review Scraper Application
+2025-08-08 09:52:45 - werkzeug - WARNING -  * Debugger is active!
+2025-08-08 09:52:45 - werkzeug - INFO -  * Debugger PIN: 423-475-774
+2025-08-08 10:01:35 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\app.py', reloading
+2025-08-08 10:01:35 - werkzeug - INFO -  * Restarting with stat
+2025-08-08 10:01:35 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-08 10:01:35 - scrapers.amazon_scraper - INFO - Amazon API not available - using web scraping only (API doesn't provide review data anyway)
+2025-08-08 10:01:35 - __main__ - INFO - Starting Review Scraper Application
+2025-08-08 10:01:35 - werkzeug - WARNING -  * Debugger is active!
+2025-08-08 10:01:35 - werkzeug - INFO -  * Debugger PIN: 423-475-774
+2025-08-08 10:01:46 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\app.py', reloading
+2025-08-08 10:01:46 - werkzeug - INFO -  * Restarting with stat
+2025-08-08 10:01:47 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-08 10:01:47 - scrapers.amazon_scraper - INFO - Amazon API not available - using web scraping only (API doesn't provide review data anyway)
+2025-08-08 10:01:47 - __main__ - INFO - Starting Python Web Scraper API
+2025-08-08 10:01:47 - __main__ - INFO - Server starting on 0.0.0.0:5000
+2025-08-08 10:01:47 - werkzeug - WARNING -  * Debugger is active!
+2025-08-08 10:01:47 - werkzeug - INFO -  * Debugger PIN: 423-475-774
+2025-08-08 10:15:09 - werkzeug - INFO -  * Detected change in 'C:\\Users\\antoi\\OneDrive\\Desktop\\Workspace\\app.py', reloading
+2025-08-08 10:15:09 - werkzeug - INFO -  * Restarting with stat
+2025-08-08 10:15:09 - scrapers.yelp_scraper - INFO - Yelp API not available, will use HTML parsing
+2025-08-08 10:15:09 - scrapers.amazon_scraper - INFO - Amazon API not available - using web scraping only (API doesn't provide review data anyway)
+2025-08-08 10:15:09 - __main__ - INFO - Starting Python Web Scraper API
+2025-08-08 10:15:09 - __main__ - INFO - Server starting on 0.0.0.0:5000
+2025-08-08 10:15:09 - werkzeug - WARNING -  * Debugger is active!
+2025-08-08 10:15:09 - werkzeug - INFO -  * Debugger PIN: 423-475-774
