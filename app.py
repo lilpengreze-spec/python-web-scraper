@@ -18,7 +18,23 @@ from flask import Flask, request, jsonify
 from dotenv import load_dotenv
 
 # Add the current directory to Python path to help with imports
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+current_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, current_dir)
+sys.path.insert(0, '/app')  # Railway deployment path
+
+# Debug: Print current directory and check if scrapers exists
+print(f"Current directory: {current_dir}")
+print(f"Files in current directory: {os.listdir(current_dir) if os.path.exists(current_dir) else 'Directory not found'}")
+scrapers_path = os.path.join(current_dir, 'scrapers')
+print(f"Scrapers directory exists: {os.path.exists(scrapers_path)}")
+if os.path.exists(scrapers_path):
+    print(f"Files in scrapers: {os.listdir(scrapers_path)}")
+
+# Additional sanity checks (as suggested by expert)
+print(">> sys.path:", sys.path)
+print(">> /app contents:", os.listdir("/app") if os.path.exists("/app") else "/app does not exist")
+print(">> /app/scrapers exists:", os.path.isdir("/app/scrapers"))
+print(">> Working directory:", os.getcwd())
 
 from scrapers.yelp_scraper import YelpScraper
 from scrapers.amazon_scraper import AmazonScraper
@@ -296,3 +312,4 @@ if __name__ == '__main__':
         debug=debug,
         threaded=True
     )
+
